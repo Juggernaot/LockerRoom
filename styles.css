@@ -18,7 +18,7 @@ header {
     display: inline-block;
     width: 30px;
     height: 30px;
-    background-image: url('../icon/home-icon.png.png');
+    background-image: url('icon/home.png.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
